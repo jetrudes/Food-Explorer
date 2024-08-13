@@ -152,6 +152,6 @@ https://github.com/jetrudes/Food-Explorer.git
 
 This project is under the license [MIT](./LICENSE).
 
-Made with ❤️ by Carlos Arújo  [Get in Touch!](https://github.com/jetrudes/Food-Explorer.git)
+Made with ❤️ by Carlos Arújo  [Get in Touch!](https://www.linkedin.com/in/carlos-henrique-de-sousa-ara%C3%BAjo-07a672228/)
 
 ---
